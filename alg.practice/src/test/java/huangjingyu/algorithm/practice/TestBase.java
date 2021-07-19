@@ -1,7 +1,5 @@
 package huangjingyu.algorithm.practice;
 
-import junit.framework.TestCase;
-
-public class BaseTest extends TestCase {
+public class TestBase {
     protected String testDataDir = "target/test-classes/test/";
 }

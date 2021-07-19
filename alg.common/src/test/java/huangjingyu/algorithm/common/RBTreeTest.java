@@ -7,13 +7,16 @@ import java.util.Map;
 import java.util.UUID;
 
 import junit.framework.TestCase;
+import org.junit.Before;
+import org.junit.Test;
 
 public class RBTreeTest extends TestCase {
 
-	@Override
-	protected void setUp() throws Exception {
+	@Before
+	public void setUp() throws Exception {
 	}
 
+	@Test
 	public void test() {
 		RBTree<String, String> t = new RBTree<String, String>();
 		Map<String, String> map = new HashMap<String, String>();

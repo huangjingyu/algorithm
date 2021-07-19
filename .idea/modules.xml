@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/alg.common/alg.common.iml" filepath="$PROJECT_DIR$/alg.common/alg.common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/alg.practice/alg.practice.iml" filepath="$PROJECT_DIR$/alg.practice/alg.practice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/algorithm.iml" filepath="$PROJECT_DIR$/algorithm.iml" />
+    </modules>
+  </component>
+</project>
