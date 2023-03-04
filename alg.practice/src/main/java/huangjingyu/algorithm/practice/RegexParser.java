@@ -4,7 +4,6 @@ public class RegexParser implements IRegexParser {
 
     private static final char EPSILON = 'E';
 
-    @Override
     public String match(String patternString, String candidateString) {
 	char[] arr = patternString.toCharArray();
 	if (arr.length == 0)

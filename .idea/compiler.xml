@@ -11,8 +11,8 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="alg.common" target="1.7" />
-      <module name="alg.practice" target="1.7" />
+      <module name="alg.common" target="1.8" />
+      <module name="alg.practice" target="1.8" />
       <module name="algorithm" target="1.8" />
       <module name="parent-project" target="1.7" />
     </bytecodeTargetLevel>
